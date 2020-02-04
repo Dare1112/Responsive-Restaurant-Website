@@ -5,7 +5,7 @@
 body { 
     font-family: 'Courgette', cursive;      
     color: #c9c1ac;   
-    background: url(../Images/1.jpg);
+    background: url(../Images/10.jpg);
     background-size: 100% 100%; 
     background-repeat: no-repeat; 
 } 
@@ -22,7 +22,7 @@ body {
 } 
 
 #header {  
-    color: 		#800000;
+    color:	#800000;
     min-height: calc(100vh - 94px);
     background:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(../Images/2.png);
     background-position: center;
